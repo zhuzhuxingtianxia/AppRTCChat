@@ -4,7 +4,7 @@
 
 ## 如何测试
 ```
--运行WebSocket服务端前，你需要用Node.js的NPM去安装依赖包
+- 运行WebSocket服务端前，你需要用Node.js的NPM去安装依赖包
 -用命令行CD到server.js所在目录下即SkyRTC-demo-master文件夹
 -命令行中执行:node server.js
 ```
