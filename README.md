@@ -11,6 +11,8 @@
 - 用命令行CD到server.js所在目录下即SkyRTC-demo-master文件夹
 - 命令行中执行:node server.js
 
+然后就可以运行项目了，进入房间了！
+
 ## 存在的问题
 ```
 1.远端视频模糊
