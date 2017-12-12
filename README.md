@@ -3,8 +3,8 @@
 **webRTC**之libjingle_peerconnection
 
 ## 学习参考文章
-1.[文章1](http://www.jianshu.com/p/c49da1d93df4)
-
+1. [http://www.jianshu.com/p/c49da1d93df4]()
+2. [https://github.com/ISBX/apprtc-ios]()
 ## 存在的问题
 ```
 1.远端视频模糊
