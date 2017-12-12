@@ -1,6 +1,9 @@
 # AppRTCChat
 webRTC之libjingle_peerconnection
 
+## 学习参考文章
+[http://www.jianshu.com/p/c49da1d93df4]()
+
 ## 存在的问题
 ```
 1.远端视频模糊
