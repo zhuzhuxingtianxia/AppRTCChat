@@ -1,6 +1,9 @@
 # [AppRTCChat](https://github.com/zhuzhuxingtianxia/AppRTCChat)
 
 **webRTC**之libjingle_peerconnection
+## 环境
+
+Xcode10以下版本 ->0.1
 
 ## 如何测试
 
@@ -29,3 +32,5 @@
 1. [http://www.jianshu.com/p/c49da1d93df4](http://www.jianshu.com/p/c49da1d93df4)
 2. [https://github.com/ISBX/apprtc-ios](https://github.com/ISBX/apprtc-ios)
 3. [https://github.com/crossle/AppRTCMobile](https://github.com/crossle/AppRTCMobile)
+
+
